@@ -32,13 +32,13 @@ A tela principal tem os principais recursos do sistema
 A Tela com a lista de usuários exibe os usuários cadastrados no sistema
 ![Tela de Lista de Usuários](https://github.com/felipebastosweb/storeapp_dlang/blob/main/screenshots/users_index.png)
 
-## Tela de Lista de Marcas
-Essa tela lista as marcas de produtos cadastradas no sistema
-![Tela de Lista de Marcas](https://github.com/felipebastosweb/storeapp_dlang/blob/main/screenshots/brands_index.png)
+## Gestão de Marcas
+Clique no link para ver todas as funcionalidades realaciona as a gestão de marcas de produtos que o sistema possui.
+[Marcas](https://github.com/felipebastosweb/storeapp_dlang/blob/main/brands.md)
 
-## Tela de Lista de Fornecedores
-A Tela com a lista de usuários exibe os fornecedores cadastrados no sistema. A lista de fornecedores visa auxiliar o lojista a identificar as compras de produtos para revenda ou de insumos de produção.
-![Tela de Lista de Fornecedores](https://github.com/felipebastosweb/storeapp_dlang/blob/main/screenshots/suppliers_index.png)
+## Gestão de Fornecedores
+Clique no link para ver todas as funcionalidades realaciona as a gestão de fornecedores de produtos que o sistema possui
+[Fornecedores](https://github.com/felipebastosweb/storeapp_dlang/blob/main/suppliers.md)
 
 ## Tela de Lista de Produtos
 ![Tela de Lista de Produtos](https://github.com/felipebastosweb/storeapp_dlang/blob/main/screenshots/products_index.png)
