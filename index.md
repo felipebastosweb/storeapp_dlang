@@ -3,15 +3,11 @@ StoreApp escrito em D com acesso ao banco de dados MongoDB (Community)
 
 Esse trabalho visa construir um aplicativo do tipo binário para gestão de lojas de comércio (ou pequenas fábricas artesanais),
 que consiga rodar um computadores de 32 e 64 bits com alto desempenho, sendo que o banco de dados, por questão de suporte de hardware,
-deverá estar em um computador de 64 bits. Foi observado em análise prévia que a maioria das linguagens de programação não dão mais suporte
-a computadores de 32 bits, o que não acontece com a linguagem D que ainda é compatível com esse tipo de hardware. Foi observado também que
-linguagens de programação como o Ruby, que apresenta bom desempenho no desenvolvimento do sistema pela equipe apresenta um péssimo rendimento
-em execução do sistema em computadores de 64 bits, tornando assim o custo computacional muito alto. Desta forma, a linguagem de programação D
-foi escolhida por se tratar de uma linguagem com recursos modernos, ser orientada a objetos, e apresentar ótimo rendimento em tempo de execução
-tanto em hardwares de 32 quanto de 64 bits (i386 e amd64). Isto se mostrou um fator muito importante no aproveitamento do poder computacional
-de dispositivos como netbooks e computadores mais antigos em lojas de pequeno porte. Ou nos foi permitido pensar, até mesmo, no aproveitamento
-de recursos computacionais em países pobres através de sucatas de informática. Desta forma, fica explícito também o carater social desse projeto
-ao qual visa abranger a inclusão tecnológica de todos os países, principalmente os mais pobres ou as populações mais carentes.
+deverá estar em um computador de 64 bits.
+
+![Tela principal](https://github.com/felipebastosweb/storeapp_dlang/blob/main/screenshots/home.png)
+
+Foi observado que a maioria das linguagens de programação não dão mais suporte a computadores de 32 bits, o que não acontece com a linguagem D que ainda é compatível com esse tipo de hardware. Foi observado também que linguagens de programação como o Ruby, que apresenta bom desempenho no desenvolvimento do sistema pela equipe apresenta um péssimo rendimento em execução do sistema em computadores de 64 bits, tornando assim o custo computacional muito alto. Desta forma, a linguagem de programação D foi escolhida por se tratar de uma linguagem com recursos modernos, ser orientada a objetos, e apresentar ótimo rendimento em tempo de execução tanto em hardwares de 32 quanto de 64 bits (i386 e amd64). Isto se mostrou um fator muito importante no aproveitamento do poder computacional de dispositivos como netbooks e computadores mais antigos em lojas de pequeno porte. Ou nos foi permitido pensar, até mesmo, no aproveitamento de recursos computacionais em países pobres através de sucatas de informática. Desta forma, fica explícito também o carater social desse projeto ao qual visa abranger a inclusão tecnológica de todos os países, principalmente os mais pobres ou as populações mais carentes.
 
 # Como instalar
 Para instalar basta fazer o download do arquivo binário (storeapp.exe) na seção de releases localizada à direita dessa página --->>.
@@ -24,21 +20,12 @@ Basta abrir o executável no shell ou console de sua preferência (Prompt de Com
 # O que já funciona
 Aqui estão descritas algumas das telas que já estão funcionando (falta fazer o print das demais telas de CRUD destes recursos).
 
-## Tela Principal
-A tela principal tem os principais recursos do sistema
-![Tela principal](https://github.com/felipebastosweb/storeapp_dlang/blob/main/screenshots/home.png)
-
-## Tela de Lista de Usuários
-A Tela com a lista de usuários exibe os usuários cadastrados no sistema
-![Tela de Lista de Usuários](https://github.com/felipebastosweb/storeapp_dlang/blob/main/screenshots/users_index.png)
-
+* [Gestão de Usuários](https://github.com/felipebastosweb/storeapp_dlang/blob/main/users.md)
 * [Gestão de Marcas](https://github.com/felipebastosweb/storeapp_dlang/blob/main/brands.md)
 * [Gestão de Fornecedores](https://github.com/felipebastosweb/storeapp_dlang/blob/main/suppliers.md)
-
-## Tela de Lista de Produtos
-![Tela de Lista de Produtos](https://github.com/felipebastosweb/storeapp_dlang/blob/main/screenshots/products_index.png)
-## Tela de Lista de Compras
-![Tela de Lista de Compras](https://github.com/felipebastosweb/storeapp_dlang/blob/main/screenshots/purchases_index.png)
+* [Gestão de Produtos](https://github.com/felipebastosweb/storeapp_dlang/blob/main/products.md)
+* [Gestão de Compras](https://github.com/felipebastosweb/storeapp_dlang/blob/main/purchases.md)
+* [Gestão de Pedidos](https://github.com/felipebastosweb/storeapp_dlang/blob/main/orders.md)
 
 # O que será produzido em breve
 Estes são os próximos recursos a serem desenvolvidos no sistema:
