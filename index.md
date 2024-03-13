@@ -32,9 +32,7 @@ A tela principal tem os principais recursos do sistema
 A Tela com a lista de usuários exibe os usuários cadastrados no sistema
 ![Tela de Lista de Usuários](https://github.com/felipebastosweb/storeapp_dlang/blob/main/screenshots/users_index.png)
 
-## Gestão de Marcas
-Clique no link para ver todas as funcionalidades realaciona as a gestão de marcas de produtos que o sistema possui.
-[Marcas](https://github.com/felipebastosweb/storeapp_dlang/blob/main/brands.md)
+[## Gestão de Marcas](https://github.com/felipebastosweb/storeapp_dlang/blob/main/brands.md)
 
 ## Gestão de Fornecedores
 Clique no link para ver todas as funcionalidades realaciona as a gestão de fornecedores de produtos que o sistema possui
