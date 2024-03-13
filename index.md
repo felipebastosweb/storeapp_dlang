@@ -20,12 +20,16 @@ Basta abrir o executável no shell ou console de sua preferência (Prompt de Com
 # O que já funciona
 Aqui estão descritas algumas das telas que já estão funcionando (falta fazer o print das demais telas de CRUD destes recursos).
 
+* [Gestão de Clientes](https://github.com/felipebastosweb/storeapp_dlang/blob/main/customers.md)
 * [Gestão de Usuários](https://github.com/felipebastosweb/storeapp_dlang/blob/main/users.md)
 * [Gestão de Marcas](https://github.com/felipebastosweb/storeapp_dlang/blob/main/brands.md)
 * [Gestão de Fornecedores](https://github.com/felipebastosweb/storeapp_dlang/blob/main/suppliers.md)
 * [Gestão de Produtos](https://github.com/felipebastosweb/storeapp_dlang/blob/main/products.md)
 * [Gestão de Compras](https://github.com/felipebastosweb/storeapp_dlang/blob/main/purchases.md)
 * [Gestão de Pedidos](https://github.com/felipebastosweb/storeapp_dlang/blob/main/orders.md)
+* 
+* [Gestão de Fluxo de Caixa](https://github.com/felipebastosweb/storeapp_dlang/blob/main/cashflow.md)
+* [Gestão de Contas](https://github.com/felipebastosweb/storeapp_dlang/blob/main/cashflow.md)
 
 # O que será produzido em breve
 Estes são os próximos recursos a serem desenvolvidos no sistema:
